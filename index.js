@@ -9,4 +9,3 @@ function logShout(string) {
   string=upperccase
   console.log(upperccase)
 }
-
